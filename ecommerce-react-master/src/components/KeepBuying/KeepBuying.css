@@ -1,0 +1,14 @@
+.cart-list-products{
+    margin: 20px;
+}
+
+h4 {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.cart-list-products button {
+    width: 300px;
+    margin: 30px auto;
+    display: block;
+}

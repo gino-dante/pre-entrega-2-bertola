@@ -1,0 +1,28 @@
+.nav__container ul{
+    display: flex;
+}
+
+ul.maxim-nav{
+    flex-direction: row;
+}
+
+ul.minim-nav{
+    flex-direction: column;
+}
+
+ul.minim-nav button{
+   margin: 0;
+}
+
+ul li{
+    list-style-type: none;
+    margin: 10px;
+}
+
+.header__child .nav-btn{
+    color: white;
+    font-family: inherit;
+    text-transform: none;
+    font-size: inherit;
+}
+

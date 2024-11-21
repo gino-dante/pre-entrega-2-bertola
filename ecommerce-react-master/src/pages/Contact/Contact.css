@@ -1,0 +1,45 @@
+.contact__p{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.contact-form > *{
+    width: 500px;
+}
+
+.contact-form > div{
+    margin: .7em;
+}
+
+.contact-form__button{
+    margin: 0 auto;
+    width: auto;
+}
+
+.contact-form__button button{
+    margin: 0 1em;
+}
+
+
+@media screen and (max-width: 600px){
+    
+    .contact__p{
+        width: 80%;
+    }
+
+    .form-input{
+        width: 80%;
+    }
+
+    footer.footer{
+        margin-top: 50px;
+    }
+}

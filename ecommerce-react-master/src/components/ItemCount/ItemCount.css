@@ -1,0 +1,21 @@
+.item-list__counter{
+    display: flex;
+    align-items: center;
+    border: 1px solid rgba(25, 118, 210, 0.5);
+    border-radius: 5px;
+}
+
+.item-list__counter:hover{
+    border: 1px solid #1976d2;
+}
+
+.item-list__counter .btn-counter{
+    font-size: 1.1em;
+    padding: 3px 4px;
+}
+
+
+
+.btn{
+    width: 80%;
+}

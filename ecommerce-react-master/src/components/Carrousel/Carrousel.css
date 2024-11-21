@@ -1,0 +1,22 @@
+.img-carrousel{
+    height: 60vh;
+    object-fit: cover;
+}
+
+.item-carrousel-1{
+    object-position: 0 0;
+}
+
+.item-carrousel-3{
+    object-position: 0 -20px;
+}
+
+.item-carrousel-4{
+    object-position: 0 0;
+}
+
+@media (max-width: 520px) {
+    .img-carrousel{
+        height: 25vh;
+    }
+}
