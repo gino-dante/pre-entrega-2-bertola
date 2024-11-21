@@ -30,10 +30,4 @@ Ecommerce realizado en React conectado a una DB en Firebase/Firestore. La tienda
 
 <br>
 
-## 🙋‍♂️ Hola, Soy Federico Krenn
-:nerd_face: Desarrollador web Fullstack
-<br>
-👨‍🎓 Realizando la Tecnicatura en Desarrollo Web en ISPC y Tecnicatura en Software Libre en la UNL
-<br>
-📫 Conectemos en Linkedin: https://www.linkedin.com/in/fkrenn/
 
